@@ -9,6 +9,7 @@ public class GitTest {
         System.out.println("主分支修改");
         System.out.println("修复补丁修改");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
 
